@@ -5,3 +5,5 @@ https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9
 https://tools.kali.org/password-attacks/seclists
 
 https://gtfobins.github.io/
+
+https://lolbas-project.github.io/#
