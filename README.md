@@ -1,4 +1,5 @@
 # useful_links
+https://oscp.infosecsanyam.in/buffer-overflow/buffer-overflow-step-by-step/minishare
 
 https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9ae3fec92a96
 
